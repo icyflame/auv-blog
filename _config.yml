@@ -1,17 +1,16 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            AUV
+title:            AUV IIT Kharagpur's Blog
 tagline:          'Autonomous Underwater Vehicle Research Group'
 description:      'We are an undergraduate student group working in the field of autonomous underwater robotics, designing submarines for international competitions.'
-url:              http://auv-iitkgp.in/blog
-baseurl:          /blog/
-baseurl-notrailingslash: /blog
+baseurl:          http://auviitkgp.github.io/blog/
+baseurl-notrailingslash: http://auviitkgp.github.io/blog
 
 author:
   name:           'Siddharth Kannan'
