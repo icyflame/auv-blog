@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unix usage at AUV IITKGP
-author: Siddharth Kannan and Pranay Pratyush
+author: Siddharth Kannan
 github-username: icyflame
 ---
 
