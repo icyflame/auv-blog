@@ -9,8 +9,8 @@ permalink:        pretty
 title:            AUV IIT Kharagpur's Blog
 tagline:          'Autonomous Underwater Vehicle Research Group'
 description:      'We are an undergraduate student group working in the field of autonomous underwater robotics, designing submarines for international competitions.'
-baseurl:          http://auviitkgp.github.io/blog/
-baseurl-notrailingslash: http://auviitkgp.github.io/blog
+baseurl:          https://auviitkgp.github.io/blog/
+baseurl-notrailingslash: https://auviitkgp.github.io/blog
 
 author:
   name:           'Siddharth Kannan'
